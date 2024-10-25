@@ -33,22 +33,17 @@ CaRoSaC was tested with the following setup:
 * other non-standard packages:
 
 ## Setup Configuration From Paper
-  1. CDPR Configuration:
-    <br>
-    <img src="./figures/sim_sys.svg" alt="drawing" width="400"/> <img src="./figures/real_sys.svg" alt="drawing" width="400"/>
-    <br>
-  2. RL Control Architecture:
-    <br>
-    <img src="./figures/rl_architecture.svg" alt="drawing"/>
-
+  <br>
+  <img src="./figures/sim_sys.svg" alt="drawing" width="400"/> <img src="./figures/real_sys.svg" alt="drawing" width="400"/>
+  <br>
 
 ## Steps To Setup Custom CDPR Configuration
   1. Robot Setup Settings:
   2. Cable Setup Settings:
   3. Obi Solver Settings:
-  4. Python Communication Settings:
-  5. RL Control Agent (Twin Delayed Deep Deterministic Policy Gradients - TD3):
-  6. Controller Training Parameters: 
+  [//]: #4. Python Communication Settings:
+  [//]: # 5. RL Control Agent (Twin Delayed Deep Deterministic Policy Gradients - TD3):
+  [//]: #6. Controller Training Parameters: 
 
 ## Evaluation & Inference
 

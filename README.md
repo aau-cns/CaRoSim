@@ -6,9 +6,7 @@
 This repository provides the official implementation of the paper "CaRoSaC: A Reinforcement Learning Control Approach for Cable-Driven Parallel Robots by Addressing Cable Sag through Simulation"
 
 # Introduction
-<div align="justify">CaRoSaC is a framework for simulating and controlling Cable-Driven Parallel Robots(CDPR's).
-
-The Cable Robot Simulation (CaRoSim) is built on top of Unity3D to simulate realistic behavior of Cable-Driven Parallel Robots(CDPR's) with flexible cables, 
+<div align="justify">CaRoSaC is a framework for simulating and controlling Cable-Driven Parallel Robots(CDPR's). The Cable Robot Simulation (CaRoSim) is built on top of Unity3D to simulate realistic behavior of Cable-Driven Parallel Robots(CDPR's) with flexible cables, 
 whereas the Cable Robot Control (CaRoCon) integrates a model-free Reinforcement Learning (RL) approach.</div>
 
 

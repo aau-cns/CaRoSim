@@ -35,9 +35,7 @@ CaRoSaC was tested with the following setup:
 ## Setup Configuration From Paper
   1. CDPR Configuration:
     <br>
-    <img src="./figures/sim_sys.svg" alt="drawing" width="400"/>
-    <br>
-    <img src="./figures/real_sys.svg" alt="drawing" width="400"/>
+    <img src="./figures/sim_sys.svg" alt="drawing" width="400"/> <img src="./figures/real_sys.svg" alt="drawing" width="400"/>
     <br>
   2. RL Control Architecture:
     <br>

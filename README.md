@@ -33,9 +33,7 @@ CaRoSaC was tested with the following setup:
 * other non-standard packages:
 
 ## Setup Configuration From Paper
-  <br>
   <img src="./figures/sim_sys.svg" alt="drawing" width="400"/> <img src="./figures/real_sys.svg" alt="drawing" width="400"/>
-  <br>
 
 ## Steps To Setup Custom CDPR Configuration
   1. Robot Setup Settings:

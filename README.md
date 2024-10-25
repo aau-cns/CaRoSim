@@ -32,13 +32,25 @@ CaRoSaC was tested with the following setup:
 * other standard packages: numpy, scipy, cv2, cython
 * other non-standard packages:
 
-## SCAMPI CDPR Setup Configuration
-<img src="./figures/sim_sys.svg" alt="drawing" width="400"/> <img src="./figures/real_sys.svg" alt="drawing" width="400"/>
+## Setup Configuration From Paper
+  1. CDPR Configuration
+     <img src="./figures/sim_sys.svg" alt="drawing" width="400"/> <img src="./figures/real_sys.svg" alt="drawing" width="400"/>
+  2. RL Control Architecture
+     <img src="./figures/rl_architecture.svg" alt="drawing"/>
 
 
+## Steps To Setup Custom CDPR Configuration
+  1. Robot Setup Settings:
+  2. Cable Setup Settings:
+  3. Obi Solver Settings:
+  4. Python Communication Settings:
+  5. RL Control Agent (Twin Delayed Deep Deterministic Policy Gradients - TD3):
+  6. Controller Training Parameters: 
 
-
-## Custom Setup Configuration
 ## Evaluation & Inference
+
+## ToDo's: 
+  1. Automatic Basic Scene Setup
+
 
 

@@ -34,14 +34,14 @@ CaRoSaC was tested with the following setup:
 
 ## Setup Configuration From Paper
   1. CDPR Configuration:
-
-   ![CDPR Simulation Setup](./figures/sim_sys.svg)
-   
-   ![CDPR Real Setup](./figures/real_sys.svg)
-
-2. RL Control Architecture:
-
-   ![RL Control Architecture](./figures/rl_architecture.svg)
+    <br>
+    <img src="./figures/sim_sys.svg" alt="drawing" width="400"/>
+    <br>
+    <img src="./figures/real_sys.svg" alt="drawing" width="400"/>
+    <br>
+  2. RL Control Architecture:
+    <br>
+    <img src="./figures/rl_architecture.svg" alt="drawing"/>
 
 
 ## Steps To Setup Custom CDPR Configuration

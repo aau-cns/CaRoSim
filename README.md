@@ -1,4 +1,5 @@
 # CaRoSaC
+[https://github.com/aau-cns/CaRoSaC/blob/main/figures/carosac_logo.svg]
 Cable Robot Simulation and Control
 
 

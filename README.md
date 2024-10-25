@@ -51,7 +51,7 @@ CaRoSaC was tested with the following setup:
 ## Evaluation & Inference
 
 ## ToDo's: 
-  1. Automatic Basic Scene Setup
+  1. Automatic Scriptable Basic Scene Setup
 
 
 

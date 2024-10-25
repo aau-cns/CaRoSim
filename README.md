@@ -33,7 +33,7 @@ CaRoSaC was tested with the following setup:
 * other non-standard packages:
 
 ## SCAMPI CDPR Setup Configuration
-![SCAMPI CDPR Sim Config](./figures/sim_sys.svg) ![SCAMPI CDPR Real Config](./figures/real_sys.svg)
+![SCAMPI CDPR Sim Config](./figures/sim_sys.svg =100x20) ![SCAMPI CDPR Real Config](./figures/real_sys.svg =100x20)
 
 
 

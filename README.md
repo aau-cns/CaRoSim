@@ -33,8 +33,8 @@ CaRoSaC was tested with the following setup:
 * other non-standard packages:
 
 ## Setup Configuration From Paper
-  1. CDPR Configuration
-     <img src="./figures/sim_sys.svg" alt="drawing" width="400"/> <img src="./figures/real_sys.svg" alt="drawing" width="400"/>
+  1. CDPR Configuration:
+<img src="./figures/sim_sys.svg" alt="drawing" width="400"/> <img src="./figures/real_sys.svg" alt="drawing" width="400"/>
   2. RL Control Architecture
      <img src="./figures/rl_architecture.svg" alt="drawing"/>
 

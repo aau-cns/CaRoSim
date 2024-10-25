@@ -46,7 +46,7 @@ CaRoSaC was tested with the following setup:
   
   [//]: # (6. Controller Training Parameters:)
 
-## Evaluation & Inference
+## Running Training and Control Experiments from Paper
 
 ## ToDo's: 
   1. Automatic Scriptable Basic Scene Setup

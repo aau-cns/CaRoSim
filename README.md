@@ -41,8 +41,9 @@ CaRoSaC was tested with the following setup:
   1. Robot Setup Settings:
   2. Cable Setup Settings:
   3. Obi Solver Settings:
-  [//]: #4. Python Communication Settings:
-  [//]: # 5. RL Control Agent (Twin Delayed Deep Deterministic Policy Gradients - TD3):
+  4. [//]: # (This is a comment.)
+  [//]: #(4. Python Communication Settings:)
+  [//]: #5. RL Control Agent (Twin Delayed Deep Deterministic Policy Gradients - TD3):
   [//]: #6. Controller Training Parameters: 
 
 ## Evaluation & Inference

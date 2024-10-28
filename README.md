@@ -28,9 +28,13 @@ If you use CaRoSaC for academic research, please cite the corresponding paper an
 CaRoSaC was tested with the following setup:
 
 * Linux 20.04
+* Unity Version: 2021.3.11f1
 * Python 3.8.8
-* other standard packages: numpy, scipy, cv2, cython
-* other non-standard packages:
+* matplotlib==3.7.1
+* numpy==1.24.3
+* pandas==1.4.4
+* PyYAML==6.0
+* other non-standard packages: tabulate==0.8.2, termcolor==2.3.0
 
 ## Setup Configuration From Paper
   <img src="./figures/sim_sys.svg" alt="drawing" width="400"/> <img src="./figures/real_sys.svg" alt="drawing" width="400"/>

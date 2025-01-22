@@ -50,7 +50,9 @@ CaRoSaC was tested with the following setup:
 ## Running Training and Control Experiments from Paper
 
 ## ToDo's: 
-  1. Automatic Scriptable Basic Scene Setup
+  1. Automatic scriptable scene setup
+  2. Supervised learning of cable parameters
+  3. Implement multi-scene for parallel RL training
 
 
 

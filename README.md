@@ -37,17 +37,23 @@ CaRoSaC was tested with the following setup:
   <img src="./figures/sim_sys.svg" alt="drawing" width="400"/> <img src="./figures/real_sys.svg" alt="drawing" width="400"/>
 
 ## Steps To Setup Custom CDPR Configuration
-  1. Robot Setup Settings:
-  2. Cable Setup Settings:
-  3. Obi Solver Settings:
+To create a custom Cable-Driven Parallel Robot (CDPR) simulation using CaRoSim, follow these key steps:
+  * Clone CaRoSim repository:     ````git clone https://github.com/your-repo/CaRoSaC.git````
+  * Open the project in Unity3D 2021.3.11f1.
+  * Import the Obi Rope asset from Package manager (required for flexible cable simulation).
+  * Configure the simulation environment
+      - Set up End-Effector
+      - Set up Pulley configuration
+      - Set up and Configure Cable objects
+      - Configure Obi Solver
+  * Play the simulation scene
 
-  [//]: # (4. Python Communication Settings:)
+## The CaRoSim_UserGuide provides following information:
+  * The structure of the simulation framework.
+  * Building blocks and other elements of the simulation scene.
+  * Setting up and configuring the CDPR simulation.
 
-  [//]: # (5. RL Control Agent - TD3:)
   
-  [//]: # (6. Controller Training Parameters:)
-
-## Running Training and Control Experiments from Paper
 
 ## ToDo's: 
   1. Automatic scriptable scene setup
